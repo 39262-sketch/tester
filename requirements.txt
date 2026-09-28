@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+face_recognition
+numpy
+Pillow
+pillow-heif
